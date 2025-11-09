@@ -1,8 +1,8 @@
 <div align="center">
 
-# � Hi, I'm Parth Kairamkonda
+#  Hi, I'm Parth Kairamkonda
 
-### �💫 About Me
+### 💫 About Me
 
 </div>
 
