@@ -35,9 +35,9 @@ const parth = {
 - 🔭 Currently building **crypto-native credit protocols on Monad Network**
 - 🌱 Deep-diving into **DeFi, ZK proofs, and on-chain reputation systems**
 - 🤝 Looking to collaborate on **Web3 projects & ML applications**
-- 🏆 Active **hackathon competitor** — CTRL + MOVE Hackathon builder
+- 🏆 Active **hackathon competitor** 
 - 💬 Ask me about **Solidity, React, Python, or DeFi architecture**
-- 📫 Reach me at **parthkk950@gmail.com**
+- 📫 Reach me at **parth122004@gmail.com**
 
 <br clear="right"/>
 
