@@ -30,7 +30,7 @@ const parth = {
 };
 ```
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 - 🔭 Currently building **crypto-native credit protocols on Monad Network**
 - 🌱 Deep-diving into **DeFi, ZK proofs, and on-chain reputation systems**
